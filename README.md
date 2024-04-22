@@ -1,3 +1,5 @@
+# sponsor bot bot pour dmall votre bot , avec beaucoup de catégorie.
+
 ## Démarrage du Bot
 
 Pour démarrer le bot, suivez ces étapes simples :
